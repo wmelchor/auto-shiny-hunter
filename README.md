@@ -1,1 +1,1 @@
-# auto-shiny-hunter
+Automatic shiny pokemon hunter
